@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "Lucida Sans";
+  src: url("assets/fonts/LucidaSans/LucidaSans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lucida Sans";
+  src: url("assets/fonts/LucidaSans/LucidaSans-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: "Asap";
+  src: url("assets/fonts/Asap/Asap.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Asap";
+  src: url("assets/fonts/Asap/Asap-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Asap";
+  src: url("assets/fonts/Asap/Asap-Bold-Italic.ttf")
+    format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Asap";
+  src: url("assets/fonts/Asap/Asap-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("assets/fonts/SegoeUI/SegoeUI.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("assets/fonts/SegoeUI/SegoeUI-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("assets/fonts/SegoeUI/SegoeUI-Bold-Italic.ttf")
+    format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("assets/fonts/SegoeUI/SegoeUI-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Segoe WP";
+  src: url("assets/fonts/SegoeWP/SegoeWP.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT-Sans";
+  src: url("assets/fonts/PTSans/PTSans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT-Sans";
+  src: url("assets/fonts/PTSans/PTSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT-Sans";
+  src: url("assets/fonts/PTSans/PTSans-Bold-Italic.ttf")
+    format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PT-Sans";
+  src: url("assets/fonts/PTSans/PTSans-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PT-Sans-Narrow";
+  src: url("assets/fonts/PTSans/PTSans-Narrow.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT-Sans-Narrow";
+  src: url("assets/fonts/PTSans/PTSans-Narrow-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open-Sans";
+  src: url("assets/fonts/OpenSans/OpenSans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open-Sans";
+  src: url("assets/fonts/OpenSans/OpenSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open-Sans";
+  src: url("assets/fonts/OpenSans/OpenSans-Bold-Italic.ttf")
+    format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Open-Sans";
+  src: url("assets/fonts/OpenSans/OpenSans-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
