@@ -1,9 +1,35 @@
 .main {
-    width: 100%;
+    margin-top: 20px;
+    width: 100%;   
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-template-rows: 30px 1fr;
+    grid-template-areas: 
+     "dropdown dropdown"
+     "slider slider";
+    
+     @media (max-width: $small) {
+        grid-template-areas: 
+        "dropdown button"
+        "slider slider";
+     }
     
     &__dropdown {
-        width: 100%;
-        margin-top: 20px;
-        padding: 5px;
+        box-sizing: border-box;
+        grid-area: dropdown;        
+        width: 100%;                
+        padding: 5px;               
     }
+
+    &__button {
+        grid-area: button;
+        display: none;
+        @media (max-width: $small) {
+            display: block;
+        }
+    }
+
+    &__slider {
+        grid-area: slider;
+    } 
 }

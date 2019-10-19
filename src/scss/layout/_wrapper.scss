@@ -2,15 +2,37 @@
     margin: 0;
     padding: 0;
 }
+
+html, body, iframe { 
+    height: 100%; 
+    width: 100%;
+    position: relative;
+}
+
+#iframe {
+    display: block;
+    margin: 0 auto;
+    border: 0;
+    background-color: #818181;
+}      
+
 .wrapper {    
     display: flex;    
     align-items: center;
     flex-direction: column;
     width: 70%;
     margin: 0 auto;
-    border: 1px solid green;    
+    
+    @media (max-width: $small) {
+        width: 100%;
+    }
 }
 
 .visible {
     display: block;
+}
+
+
+.inVisible {
+    display: none;
 }
