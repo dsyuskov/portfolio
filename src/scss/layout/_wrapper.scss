@@ -21,6 +21,7 @@ html, body, iframe {
     align-items: center;
     flex-direction: column;
     width: 70%;
+    height: auto;
     margin: 0 auto;
     
     @media (max-width: $small) {

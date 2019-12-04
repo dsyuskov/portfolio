@@ -74,9 +74,9 @@ const swipe = (el) => {
         } else {
             if (event.target.classList.contains('slider__image')) {
                 if (document.querySelector('div.slider__item.visible > div > div.slider__description > h2').firstChild.data === 'The Yallow') {
-                    location.href = '../theyallow/iframe.html';
+                    location.href = './theyallow/iframe.html';
                 } else {
-                    location.href = '../repair_design_project/iframe.html';
+                    location.href = './repair_design_project/iframe.html';
                 }
             }
         }
@@ -105,9 +105,9 @@ const swipe = (el) => {
                 }
             } else {
                 if (document.querySelector('div.slider__item.visible > div > div.slider__description > h2').firstChild.data === 'The Yallow') {
-                    location.href = '../theyallow/iframe.html';
+                    location.href = './theyallow/iframe.html';
                 } else {
-                    location.href = '../repair_design_project/iframe.html';
+                    location.href = './repair_design_project/iframe.html';
                 }
             }
         }
